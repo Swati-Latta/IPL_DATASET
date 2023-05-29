@@ -11,4 +11,4 @@ IPL(2008-2020)****
 
 **How toss affects the outcome of the game?**
 
-**In which IPL Season maximum no. of runs are scored?****
+**In which IPL Season maximum no. of runs are scored?***
