@@ -17,7 +17,7 @@
 
 **In which IPL Season maximum no. of runs are scored?***
 
- # Winner List (2008-2020)
+
 
 
 
