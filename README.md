@@ -19,7 +19,7 @@
 
  # Winner List (2008-2020)
 
- ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/160f604f-398e-4563-a030-3e5dbcfcb553)
+
 
 
 
