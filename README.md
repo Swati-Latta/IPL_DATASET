@@ -26,5 +26,5 @@ IPL(2008-2020)****
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/744898a6-9590-4233-bf65-f30286122a9a)
 
 
-
+# From here we can say that in Season 2013 maximum no. of runs are scored with an average of 296.5 runs per match.¶
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/ae88ff3d-15da-4f82-8706-333bebb7e79a)
