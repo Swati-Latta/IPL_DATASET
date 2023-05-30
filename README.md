@@ -24,3 +24,7 @@ IPL(2008-2020)****
 
 # NOW WE WILL SEE HOW TOSS EFFECTS THE RESULT OF A MATCH
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/744898a6-9590-4233-bf65-f30286122a9a)
+
+
+
+![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/ae88ff3d-15da-4f82-8706-333bebb7e79a)
