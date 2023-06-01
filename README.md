@@ -26,8 +26,8 @@
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/69f813bc-1e49-4835-a21a-60add1089028)
 
 
-
-
+# WINNERS VS TEAMS
+![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/108be430-63ed-442c-82b1-80c187753e78)
 
 
 
