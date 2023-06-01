@@ -32,6 +32,8 @@
 # WINNER PERCENTAGE VS TEAMS
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/8f8526f8-749d-4e3a-8bb0-1eb467eaed7c)
 
+**From here we can conclude that MUMBAI INDIANS have won maximum no. of matches and their winning percentage is also highest. so we can say that MUMBAI INDIANS is the most succesful team of IPL**
+
 # HERE WE CAN SAY THAT EDEN GARDENS HOSTED MAXIMUM NO. OF MATCHES
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/5b490c6f-1739-4fb5-b6f5-3293e5c55192)
 
