@@ -29,8 +29,8 @@
 # WINNERS VS TEAMS
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/108be430-63ed-442c-82b1-80c187753e78)
 
-
-
+# WINNER PERCENTAGE VS TEAMS
+![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/8f8526f8-749d-4e3a-8bb0-1eb467eaed7c)
 
 # HERE WE CAN SAY THAT EDEN GARDENS HOSTED MAXIMUM NO. OF MATCHES
 ![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/5b490c6f-1739-4fb5-b6f5-3293e5c55192)
