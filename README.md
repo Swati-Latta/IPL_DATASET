@@ -22,6 +22,11 @@
 
 
 
+# TOTAL MATCHES PLAYED VS TEAMS
+![image](https://github.com/Swati-Latta/IPL_DATASET/assets/134490572/69f813bc-1e49-4835-a21a-60add1089028)
+
+
+
 
 
 
